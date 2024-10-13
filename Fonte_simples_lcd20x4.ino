@@ -53,6 +53,8 @@ void inicialize_values () {
   last.voltage = 77.77;
   last.current = 66.66;
   last.work_mode = "Tensao Constante";
+  actual.power = 00.00;
+  last.power = 00.00;
 }
 
 
