@@ -47,11 +47,11 @@ bool change_values_verify () {
 }
 
 void inicialize_values () {
-  actual.voltage = 10.1;
-  actual.current = 2.5;
+  actual.voltage = 99.99;
+  actual.current = 88.88;
   actual.work_mode = "Tensao Constante";
-  last.voltage = 5.1;
-  last.current = 3.5;
+  last.voltage = 77.77;
+  last.current = 66.66;
   last.work_mode = "Tensao Constante";
 }
 
