@@ -26,6 +26,6 @@ Modo de Operação: Tensões ajustáveis de 0-30V e correntes de 0-4A.
 Leitura de Parâmetros: O sistema exibe a tensão, corrente e potência calculada em tempo real.
 
 
+#
 
-
-Em algum momento eu coloco mais fotos e atualizações desse projeto. O proposito maior aqui é organizar esse codigo para o Gabriel do Futuro.
+# Em algum momento eu coloco mais fotos e atualizações desse projeto. O proposito maior aqui é organizar esse codigo para o Gabriel do Futuro.
